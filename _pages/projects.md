@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ### Research Project Experience
 
 - Research on Narrative Display and Interactive Technology of Cultural Connotation of Great Ruins, National Key Research and Development Program of China, 2020YFC1523100.
