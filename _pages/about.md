@@ -1,9 +1,6 @@
 
 permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 
 ### Education
 
@@ -16,7 +13,7 @@ redirect_from:
 
 ### Research Interests
 
-Video Image Processing, Computer Vision, Cartoon Image Processing
+Video Image Processing/ Computer Vision/ Cartoon Image Processing
 
 
 
