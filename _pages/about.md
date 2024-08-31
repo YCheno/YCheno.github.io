@@ -25,7 +25,4 @@ Volunteer in CNCC2015, VALSE2019.
 
 
 
-### Email
-
-ychen@ahu.edu.cn
 
