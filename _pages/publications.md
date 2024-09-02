@@ -56,11 +56,13 @@ redirect_from:
 
 - X. Liu, **Y. Chen**, et al, A Cartoon Video Reproduction Method and System, 202011386058.6, 2020. (Authorized)
 
+-  **Y. Chen**, Y. Zhao, et al, Method and system for automatic colorization based on specific color set, 202210084599.6, 2022.  (Authorized)
+
 - Y. Zhao, G. Li, W. Jia, **Y. Chen**, et al, A Method and Device for Building Lightweight Network Based on Prior Filter, 201810703659.1, 2018. (Authorized)
 
 - Y. Zhao, H. Li, **Y. Chen**, et al, Method and System for Extracting Image Design Elements based on Interactive Online Learning, 2021. 
 
-- **Y. Chen**, Y. Zhao, L. Cao, L. Li, X. Liu. Method and system for automatic colorization based on specific color set, 2022.
+
 
 
 ### Software Copyright
