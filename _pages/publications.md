@@ -22,7 +22,7 @@ redirect_from:
 
 - H. Li, Y. Zhao, **Y. Chen**\*, X. Zhang, ”High Definition Reconstruction of Black and White Cartoon based on Recurrent Alignment Network," Journal of Graphics, vol.043, no.003, pp. 434-442, 2023.
 
-- Y. Ma, L. Li, **Y. Chen**\, Y. Zhao, R. Hu, ”Multi-frame compressed video enhancement based on spatio-temporal fusion, ” Journal of Graphics, vol. 043, no.004, pp. 651-658, 2023.
+- Y. Ma, L. Li, **Y. Chen**\*, Y. Zhao, R. Hu, ”Multi-frame compressed video enhancement based on spatio-temporal fusion, ” Journal of Graphics, vol. 043, no.004, pp. 651-658, 2023.
 
 - Y. Zhao, Y. Ma, **Y. Chen** , W. Jia, R. Wang, X. Liu, ”Multi-frame Joint Enhancement for Early Interlaced Videos,” IEEE Transactions on Image Processing (TIP), Accept, [ArXiv](https://arxiv.org/abs/2109.14151), 2022. (Ranked first in the MSU Deinterlacing Benchmark.)
 
