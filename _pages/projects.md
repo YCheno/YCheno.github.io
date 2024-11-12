@@ -9,6 +9,8 @@ redirect_from:
 
 ### Research Project Experience
 
+- Research on Key Technologies of Implicit Vector Expression Cartoon Animation for AIGC Era, Anhui Province University Scientific Research Program Project, 2024AH050052.
+
 - Research on Narrative Display and Interactive Technology of Cultural Connotation of Great Ruins, National Key Research and Development Program of China, 2020YFC1523100.
 
 - Research and Application on Key Technologies of Intelligent Extraction and Generation of Regong Art Elements, Key R&D and Transformation Program of Qinghai Province, No. 2021-GX-111.
