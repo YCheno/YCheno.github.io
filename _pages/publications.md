@@ -46,9 +46,9 @@ redirect_from:
 
 - Y Ma, **Y. Chen**\*, Y Liu, J Chen, B Jiang, "Multi-Modal Dynamic Information Selection Pyramid Network for Alzheimer’s Disease Classification," International Conference on Brain Inspired Cognitive Systems, 2024: 1-10.
 
-- B Jiang, Y Li, X Wan, Y Chen, Z Tu, Y Zhao, J Tang, "MGDR: Multi-modal Graph Disentangled Representation for Brain Disease Prediction," International Conference on Medical Image Computing and Computer-Assisted Intervention, 2024: 302-312.
+- B Jiang, Y Li, X Wan, **Y. Chen**, Z Tu, Y Zhao, J Tang, "MGDR: Multi-modal Graph Disentangled Representation for Brain Disease Prediction," International Conference on Medical Image Computing and Computer-Assisted Intervention, 2024: 302-312.
   
-- F Fan, Y. Zhao, Y. Chen, N. Li, W. Jia; R. Wang, "Local Texture Pattern Estimation for Image Detail Super-Resolution," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, DOI: 10.1109/TPAMI.2025.3545571.
+- F Fan, Y. Zhao, **Y. Chen**, N. Li, W. Jia; R. Wang, "Local Texture Pattern Estimation for Image Detail Super-Resolution," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, DOI: 10.1109/TPAMI.2025.3545571.
 
 - X. Yang, X. Chen, **Y. Chen**\*, Y. Zhao, "No-Reference Quality Assessment for Cartoon-Like Videos," 2025 IEEE International Conference on Multimedia and Expo (ICME), Accept, 2025.
 
