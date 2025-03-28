@@ -8,39 +8,53 @@ redirect_from:
 ---
 
 ### Published Papers
-- **Y. Chen**, Y. Zhao, S. Li, W. Zuo, W. Jia, X. Liu, ”Blind Quality Assessment for Cartoon Images,” IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 30, no. 9, pp. 3282-3288, 2020.
+- **Y. Chen**, Y. Zhao, S. Li, W. Zuo, W. Jia, X. Liu, "Blind Quality Assessment for Cartoon Images," IEEE Transactions on Circuits and Systems for Video Technology, 2020, 30(9): 3282-3288. 
 
-- **Y. Chen**, Y. Zhao, W. Jia, L. Cao, X. Liu, ”Adversarial-Learning-Based Image-to-Image Transformation: A Survey,” Neurocomputing, vol. 411, pp. 468-486, 2020.
+- **Y. Chen**, Y. Zhao, W. Jia, L. Cao, X. Liu, "Adversarial-Learning-Based Image-to-Image Transformation: A Survey," Neurocomputing, 2020, 411: 468-486.
 
-- **Y. Chen**, Y. Zhao, L. Cao, W. Jia and X. Liu, "Learning Deep Blind Quality Assessment for Cartoon Images, " IEEE Transactions on Neural Networks and Learning Systems (TNNLS), vol. 34, no. 9, pp. 6650-6655, 2023.
+- **Y. Chen**, Y. Zhao, L. Cao, W. Jia and X. Liu, "Learning Deep Blind Quality Assessment for Cartoon Images," IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(9): 6650-6655. 
 
-- Y. Zhao, R. Wang, **Y. Chen**, W. Jia, X. Liu, W. Gao, ”Lighter but Efficient Bit-Depth Expansion Network,” IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 31, no. 5, pp. 2063-2069, 2021.
+- Y. Zhao, R. Wang, **Y. Chen**, W. Jia, X. Liu, W. Gao, "Lighter but Efficient Bit-Depth Expansion Network," IEEE Transactions on Circuits and Systems for Video Technology, 2020, 31(5): 2063-2069.
 
-- X. Liu, Y. Zhao, **Y. Chen**, W. Jia, R. Wang, X. Liu, ”Estimated Exposure Guided Reconstruction Model for Low-Light Image Enhancement,” Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2020, pp. 193-205.
+- X. Liu, Y. Zhao, **Y. Chen**, W. Jia, R. Wang, X. Liu, "Estimated Exposure Guided Reconstruction Model for Low-Light Image Enhancement," Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2020, pp. 193-205.
 
-- D. Ren, Y. Zhao, **Y. Chen**\*, Y. Ma, X. Zhang. "Finite-exemplar-based Super-resolution for Specific Gaming Videos," International Conference on Image and Graphics Processing (ICIGP 2022), [DOI](https://doi.org/10.1145/3512388.3512423), 2022.
+- D. Ren, Y. Zhao, **Y. Chen**\*, Y. Ma, X. Zhang. "Finite-exemplar-based Super-resolution for Specific Gaming Videos," International Conference on Image and Graphics Processing (ICIGP 2022), 2022: 234-241.
 
-- H. Li, Y. Zhao, **Y. Chen**\*, X. Zhang, ”High Definition Reconstruction of Black and White Cartoon based on Recurrent Alignment Network," Journal of Graphics, vol.043, no.003, pp. 434-442, 2023.
+- H. Li, Y. Zhao, **Y. Chen**\*, X. Zhang, "High Definition Reconstruction of Black and White Cartoon based on Recurrent Alignment Network," Journal of Graphics, 2023, 043(003): 434-442.
 
-- Y. Ma, L. Li, **Y. Chen**\*, Y. Zhao, R. Hu, ”Multi-frame compressed video enhancement based on spatio-temporal fusion, ” Journal of Graphics, vol. 043, no.004, pp. 651-658, 2023.
+- Y. Ma, L. Li, **Y. Chen**\*, Y. Zhao, R. Hu, "Multi-frame compressed video enhancement based on spatio-temporal fusion," Journal of Graphics, 043(004): 651-658.
 
-- Y. Zhao, Y. Ma, **Y. Chen** , W. Jia, R. Wang, X. Liu, ”Multi-frame Joint Enhancement for Early Interlaced Videos,” IEEE Transactions on Image Processing (TIP), Accept, [ArXiv](https://arxiv.org/abs/2109.14151), 2022. (Ranked first in the MSU Deinterlacing Benchmark.)
+- Y. Zhao, Y. Ma, **Y. Chen** , W. Jia, R. Wang, X. Liu, "Multi-frame Joint Enhancement for Early Interlaced Videos," IEEE Transactions on Image Processing, 2022, 31: 6282-6294. (Ranked first in the MSU Deinterlacing Benchmark.)
 
-- Y. Zhao, D. Ren, **Y. Chen**, W. Jia, R. Wang, X. Liu, "Cartoon Image Processing: A Survey, " International Journal of Computer Vision (IJCV), [DOI](https://doi.org/10.1007/s11263-022-01645-1), 2022.
+- Y. Zhao, D. Ren, **Y. Chen**, W. Jia, R. Wang, X. Liu, "Cartoon Image Processing: A Survey," International Journal of Computer Vision (IJCV), 2022, 130(11): 2733-2769.
 
-- Y. Zhao, W. Jia, **Y. Chen**, R. Wang, "Fast Blind Debanding Network, " IEEE Transactions on Circuits and Systems for Video Technology, [DOI](https://doi.org/10.1109/TCSVT.2022.3202034), 2022. 
+- Y. Zhao, W. Jia, **Y. Chen**, R. Wang, "Fast Blind Debanding Network," IEEE Transactions on Circuits and Systems for Video Technology, 2022, 33(2): 478-490.
 
-- Z. Ma, Y. Zhao,  **Y. Chen**, X. Zhang, "Image Super-Resolution with Perceptual Quality Assessment Guidance," International Conference on Image and Graphics Processing (ICIGP 2023), [DOI](https://doi.org/10.1145/3582649.3582683), 2023.
+- Z. Ma, Y. Zhao,  **Y. Chen**, X. Zhang, "Image Super-Resolution with Perceptual Quality Assessment Guidance," International Conference on Image and Graphics Processing (ICIGP 2023), 2023: 111-118.
 
-- Y. Zhao, H. Li, Z. Zhang, **Y. Chen**\* , Q. Liu, X. Zhang, "Regional Traditional Painting Generation Based on Controllable Disentanglement Model,"  IEEE Transactions on Circuits and Systems for Video Technology, [DOI](https://doi.org/10.1109/TCSVT.2023.3298811), 2023.
+- Y. Zhao, H. Li, Z. Zhang, **Y. Chen**\* , Q. Liu, X. Zhang, "Regional Traditional Painting Generation Based on Controllable Disentanglement Model,"  IEEE Transactions on Circuits and Systems for Video Technology, 2024, 8(34): 6913 - 6925.
 
-- P. Pan, Y. Zhao, **Y. Chen**, W. Jia, Z. Zhang, R. Wang, "Cross-view Resolution and Frame Rate Joint Enhancement for Binocular Video," ACM International Conference on Multimedia (ACM MM), pp. 8367-8375, 2023.
+- P. Pan, Y. Zhao, **Y. Chen**, W. Jia, Z. Zhang, R. Wang, "Cross-view Resolution and Frame Rate Joint Enhancement for Binocular Video," ACM International Conference on Multimedia (ACM MM), 2023: 8367-8375.
 
-- **Y. Chen**, Y. Zhao, X. Zhang, X. Liu, "Sketch colorization with finite color space prior," Journal of Image and Graphics, vol. 29, no. 04, pp. 978-988, 2024.
+- **Y. Chen**, Y. Zhao, X. Zhang, X. Liu, "Sketch Colorization with Finite Color Space Prior," Journal of Image and Graphics, 2024, 29(04): 978-988.
 
-- S. Diao, **Y. Chen**, Y. Zhao, W. Jia, Z. Zhang, R. Wang, "Stereo Vision Conversion from Planar Videos Based on Temporal Multiplane Images," the AAAI Conference on Artificial Intelligence, vol. 38, no. 2, pp. 1519-1527, 2024.
+- S. Diao, **Y. Chen**, Y. Zhao, W. Jia, Z. Zhang, R. Wang, "Stereo Vision Conversion from Planar Videos Based on Temporal Multiplane Images," the AAAI Conference on Artificial Intelligence, 2024, 38(2): 1519-1527.
 
-- Y. Xiao, C. Zhang,  **Y. Chen**\*, B. Jiang, J. Tang, "ADRNet: Affine and Deformable Registration Networks for Multimodal Remote Sensing Images," IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, [DOI](https://doi.org/10.1109/TGRS.2024.3373568), 2024.
+- Y. Xiao, C. Zhang,  **Y. Chen**\*, B. Jiang, J. Tang, "ADRNet: Affine and Deformable Registration Networks for Multimodal Remote Sensing Images," IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-13.
+
+- D. Zhou, **Y. Chen**\*, Y. Liu, B. Jiang, "Text-Guided Vision Mamba for Alzheimer’s Disease Prediction Using 18 F-FDG PET," International Conference on Brain Inspired Cognitive Systems, 2024: 11-20.
+
+- Y Ma, **Y. Chen**\*, Y Liu, J Chen, B Jiang, "Multi-Modal Dynamic Information Selection Pyramid Network for Alzheimer’s Disease Classification," International Conference on Brain Inspired Cognitive Systems, 2024: 1-10.
+
+- B Jiang, Y Li, X Wan, Y Chen, Z Tu, Y Zhao, J Tang, "MGDR: Multi-modal Graph Disentangled Representation for Brain Disease Prediction," International Conference on Medical Image Computing and Computer-Assisted Intervention, 2024: 302-312.
+  
+- F Fan, Y. Zhao, Y. Chen, N. Li, W. Jia; R. Wang, "Local Texture Pattern Estimation for Image Detail Super-Resolution," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, DOI: 10.1109/TPAMI.2025.3545571.
+
+- X. Yang, X. Chen, **Y. Chen**\*, Y. Zhao, "No-Reference Quality Assessment for Cartoon-Like Videos," 2025 IEEE International Conference on Multimedia and Expo (ICME), Accept, 2025.
+
+  
+
+
 
 
 
