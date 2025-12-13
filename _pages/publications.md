@@ -40,7 +40,7 @@ redirect_from:
 
 - S. Diao, **Y. Chen**, Y. Zhao, W. Jia, Z. Zhang, R. Wang, "Stereo Vision Conversion from Planar Videos Based on Temporal Multiplane Images," the AAAI Conference on Artificial Intelligence, 2024, 38(2): 1519-1527.
 
-- Y. Xiao, C. Zhang,  **Y. Chen**\*, B. Jiang, J. Tang, "ADRNet: Affine and Deformable Registration Networks for Multimodal Remote Sensing Images," IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-13.
+- Y. Xiao, C. Zhang,  **Y. Chen**\*, B. Jiang\*, J. Tang, "ADRNet: Affine and Deformable Registration Networks for Multimodal Remote Sensing Images," IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-13.
 
 - D. Zhou, **Y. Chen**\*, Y. Liu, B. Jiang, "Text-Guided Vision Mamba for Alzheimer’s Disease Prediction Using 18 F-FDG PET," International Conference on Brain Inspired Cognitive Systems, 2024: 11-20.
 
@@ -48,10 +48,16 @@ redirect_from:
 
 - B Jiang, Y Li, X Wan, **Y. Chen**, Z Tu, Y Zhao, J Tang, "MGDR: Multi-modal Graph Disentangled Representation for Brain Disease Prediction," International Conference on Medical Image Computing and Computer-Assisted Intervention, 2024: 302-312.
   
-- F Fan, Y. Zhao, **Y. Chen**, N. Li, W. Jia; R. Wang, "Local Texture Pattern Estimation for Image Detail Super-Resolution," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, DOI: 10.1109/TPAMI.2025.3545571.
+- F Fan, Y. Zhao, **Y. Chen**, N. Li, W. Jia; R. Wang, "Local Texture Pattern Estimation for Image Detail Super-Resolution," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, 47(6), 4517-4534.
 
-- X. Yang, X. Chen, **Y. Chen**\*, Y. Zhao, "No-Reference Quality Assessment for Cartoon-Like Videos," 2025 IEEE International Conference on Multimedia and Expo (ICME), Accept, 2025.
+- X. Yang, X. Chen, **Y. Chen**\*, Y. Zhao, "No-Reference Quality Assessment for Cartoon-Like Videos," 2025 IEEE International Conference on Multimedia and Expo (ICME), 2025. (Top 15 papers, Best Student Paper Nomination Award)
 
+- S. Diao, Y. Zhao\*, **Y. Chen**\*, W. Jia, R. Wang, "Multi-Layer Gaussian Splatting for Single-Image Feed-Forward Spatial Scene Reconstruction," ACM International Conference on Multimedia (ACM MM), 2025: 1-9.
+
+- X. Liu, Y. Zhao\*, **Y. Chen**\*, K. Chi, X. Li, W. Jia, "Multi-Color Attribute Information Fusion for Real-World Underwater Image Enhancement,” IEEE Transactions on Geoscience and Remote Sensing (TGRS), DOI 
+:10.1109/TGRS.2025.3642296, 2025.
+
+- Y. Xiao, C. Zhang, B. Jiang\*, **Y. Chen**\*, J. Tang, "Multi-modal Remote Sensing Image Registration via Modality Perception and Self-Supervised Position Estimation." IEEE Transactions on Geoscience and Remote Sensing, 2025, 63, 1-14.
   
 
 
@@ -74,8 +80,9 @@ redirect_from:
 
 - Y. Zhao, G. Li, W. Jia, **Y. Chen**, et al, A Method and Device for Building Lightweight Network Based on Prior Filter, 201810703659.1, 2018. (Authorized)
 
-- Y. Zhao, H. Li, **Y. Chen**, et al, Method and System for Extracting Image Design Elements based on Interactive Online Learning, 2021. 
+- Y. Zhao, H. Li, **Y. Chen**, et al, Extraction methods, extraction devices and electronic equipment for image design elements, 2021. (Authorized)
 
+- Y. Zhao, F. Fan, **Y. Chen**, et al, Image restoration methods, devices, electronic equipment and computer storage media, 2022. (Authorized)
 
 
 
