@@ -58,6 +58,13 @@ redirect_from:
 :10.1109/TGRS.2025.3642296, 2025.
 
 - Y. Xiao, C. Zhang, B. Jiang\*, **Y. Chen**\*, J. Tang, "Multi-modal Remote Sensing Image Registration via Modality Perception and Self-Supervised Position Estimation." IEEE Transactions on Geoscience and Remote Sensing, 2025, 63, 1-14.
+
+- W.Liu, S. Diao, Z. Xiao, **Y. Chen**\*, W. Jia, Y. Zhao, "Enhancing Sparse Multi-View SuperResolution with Unified Multi Plane Image Spatial Representation." Visual Intelligence, 2026, 4(10), 1-14.
+
+- Y. Zhao, F. Fan, **Y. Chen**\*, L. Li, W. Jia, R. Wang, "Joint Resolution and Rendering Artifacts Removal for Cloud Gaming Image." IEEE Transactions on Circuits and Systems for Video Technology, 2026, DOI: 10.1109/TCSVT.2026.3671669.
+
+- X. Liu, Y. Zhao Y\*, **Y. Chen**\*, X. Li, Z. Zhang, W. Jia, "SIGNAL: Stereo Image Neural Learner for Continuous Super-Resolution." IEEE Transactions on Consumer Electronics, 2026, DOI: 10.1109/TCE.2026.3665449. 
+
   
 
 
