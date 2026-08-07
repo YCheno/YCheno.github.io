@@ -63,7 +63,11 @@ redirect_from:
 
 - Y. Zhao, F. Fan, **Y. Chen**\*, L. Li, W. Jia, R. Wang, "Joint Resolution and Rendering Artifacts Removal for Cloud Gaming Image." IEEE Transactions on Circuits and Systems for Video Technology, 2026, DOI: 10.1109/TCSVT.2026.3671669.
 
-- X. Liu, Y. Zhao Y\*, **Y. Chen**\*, X. Li, Z. Zhang, W. Jia, "SIGNAL: Stereo Image Neural Learner for Continuous Super-Resolution." IEEE Transactions on Consumer Electronics, 2026, DOI: 10.1109/TCE.2026.3665449. 
+- X. Liu, Y. Zhao Y\*, **Y. Chen**\*, X. Li, Z. Zhang, W. Jia, "SIGNAL: Stereo Image Neural Learner for Continuous Super-Resolution." IEEE Transactions on Consumer Electronics, 2026, DOI: 10.1109/TCE.2026.3665449.
+
+- R. Hong, S. Diao, **Y. Chen**\*, Y. Zhao, W. Jia and R. Wang, "Spatially-Aware Video Frame Interpolation for Viewpoint-Varying Sequences." IEEE Transactions on Circuits and Systems for Video Technology, DOI: 10.1109/TCSVT.2026.3708314.
+
+- W. Zhang, Y. Zhao, F. Zhang, **Y. Chen**\*, Z. Zhang and W. Jia, "BITMNet: A Degradation-Aware Mixture-of-Experts Framework for Blind Inverse Tone Mapping,"  IEEE Signal Processing Letters, DOI: 10.1109/LSP.2026.3716204.
 
   
 
